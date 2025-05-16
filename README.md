@@ -50,4 +50,5 @@ telgram担保机器人,电报担保机器人,纸飞机担保机器人,群组担�
 
 * 双方确认后，进入 `待付款` 状态
 
-完整资料地址:https://www.ymw.vip/vip/15
+👉 官方网站：[https://www.ymw.vip](https://www.ymw.vip)
+
